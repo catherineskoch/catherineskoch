@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer+(manual%2Bauto))](https://git.io/typing-svg)
 
-
+## Статистика 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=catherineskoch)
-## Навыки ## 
+
+## Навыки 
 
 ### Тестирование API и интеграций 
 <div>
@@ -81,3 +82,4 @@ Here are some ideas to get you started:
 
 ## Контакты
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/soundmarketing)
+
