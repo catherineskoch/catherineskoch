@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer+(manual%2Bauto))](https://git.io/typing-svg)
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=catherineskoch)
 ## Навыки ## 
 
 ### Тестирование API и интеграций 
