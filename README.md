@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 
 ## Образование
 <img src="assets/certRu.png" width="280px" hspace="10px" alt="Диплом" class = "certs">
+<img src="assets/base_network" width="280px" hspace="10px" alt="Сертификат" class = "certs">
 
 
 ## Контакты
